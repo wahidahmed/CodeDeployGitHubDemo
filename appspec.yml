@@ -19,7 +19,7 @@
 version: 0.0
 os: linux
 files:
-    - source: /index.html
+    - source: /
       destination: /var/www/html/wp_app
 permissions:
     - object: /var/www/html/wp_app
